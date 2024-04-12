@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(245, 245, 170);
+}
+
+.primary-nav {
+    background-color: blue;
+    text-align: center;
+    padding: 2%;
+}
